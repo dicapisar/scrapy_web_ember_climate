@@ -40,7 +40,7 @@ The project is centered around two main functions:
 
 Enhance your data analysis with compelling visualizations. Here's a sample representation:
 
-![Sample Visualization](https://example.com/sample-visualization.png)
+<img width="504" alt="Screenshot 2023-08-17 at 1 23 56 PM" src="https://github.com/dicapisar/scrapy_web_ember_climate/assets/63562180/8b35767b-2979-4a3b-a3e3-7129cd26a636">
 
 ## Acknowledgments
 
